@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dev-montgomery
-- 👀 I’m interested in ... being a good dad, pursuing some artistic endeavors in illustration, music, and coding, and lifting heavy weights.
-- 🌱 I’m currently looking at opportunities in microgreens and woodworking and eventually coffee and maybe fitness.
-- 🔨 I'm developing ... a web site for microgreens
+- 👋 @dev-montgomery
+- 👀 I’m interested in ... being a good dad.
+- 🌱 I’m currently cream and cold brew addicted.
+- 🔨 I'm developing ... a game like the one I played as a teenager.
 
 <!---
 dev-montgomery/dev-montgomery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
